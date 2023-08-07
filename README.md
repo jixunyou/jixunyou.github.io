@@ -1,5 +1,7 @@
-# 源码演示地址：https://jixunyou.github.io 
+# 源码演示：https://jixunyou.github.io 
                 ———极迅游--给世界和热爱加个速
+
+# 教程文档：https://gegeth.gitbook.io/huan-ying-shi-yong-gegeth-wen-dang-zhong-xin/  
 
 ![极迅游](https://github.com/jixunyou/jixunyou.github.io/assets/141495885/5c75f3c5-5c70-40a4-a639-45245eeb4957)
 ![广告横屏](https://github.com/jixunyou/jixunyou.github.io/assets/141495885/e272cd49-8fa5-4122-9d7e-a32924a0cf4f)
